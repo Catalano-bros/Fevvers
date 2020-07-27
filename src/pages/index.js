@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <BAR />
       <h1>Fevvers</h1>
-      <p>music fanzine</p>
+      <p>Music fanzine</p>
       <FOOTER/>
     </>
   )
